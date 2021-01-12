@@ -1,4 +1,4 @@
-# monitorspec
+# 螢幕尺寸計算器
 
 ## Project setup
 ```
@@ -20,5 +20,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Preview
+[gh-pages](https://hqiasjehrlb.github.io/monitorsize.github.io/).
